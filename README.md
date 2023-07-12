@@ -8,9 +8,4 @@ SpeedWatch is an advanced computer vision project that automatically detects the
 - **Overspeed Tagging:** Detected overspeeding vehicles are automatically tagged and recorded for further analysis.
 - **Data Analysis:** The project performs analysis on the overspeeding data, generating statistics such as average speed, peak hours, and frequency of overspeeding events.
 
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/Shiva-C-qwerty/Speed-Watch.git
+Please refer to the detailed documentation in the repository for more information on configuration options, API integration, and customization.
