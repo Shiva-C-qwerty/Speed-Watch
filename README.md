@@ -7,7 +7,6 @@ SpeedWatch is an advanced computer vision project that automatically detects the
 - **Real-time Overspeed Detection:** The system uses computer vision algorithms to accurately detect and track vehicles, determining their speed in real-time.
 - **Overspeed Tagging:** Detected overspeeding vehicles are automatically tagged and recorded for further analysis.
 - **Data Analysis:** The project performs analysis on the overspeeding data, generating statistics such as average speed, peak hours, and frequency of overspeeding events.
-- **Interactive Dashboard:** An interactive dashboard presents the analysis results in a visually appealing and user-friendly manner.
 
 ## Installation
 
